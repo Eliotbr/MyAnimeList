@@ -1,15 +1,9 @@
-/*
- * FATE SABER LAYOUT THEME
- * List Designed by Hahaido (https://myanimelist.net/profile/Hahaido)
- * Modified by rl404 (https://myanimelist.net/profile/rl404)
- */
-
 @import url(http://fonts.googleapis.com/css?family=Oswald:300|Crimson+Text);
 
 /* MAIN */
 
 body {
-	background-image: url(https://raw.githubusercontent.com/rl404/MyAnimeList/master/Saber/images/NNolCA1.jpg);
+	background-image: url(https://www.rxwallpaper.site/wp-content/uploads/fate-stay-night-unlimited-blade-works-wallpapers-wallpaper-cave.png);
 	background-repeat:no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
